@@ -69,5 +69,6 @@
     messages: 52500 - 52599 (< 60000)
     commands: 52500 - 52599 (< 60000)
   -->
+  <include>hylight.xml</include>
   <messages/>
 </mavlink>
